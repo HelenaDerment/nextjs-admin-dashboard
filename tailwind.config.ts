@@ -94,6 +94,15 @@ const config: Config = {
             4: "#FFFBEB",
           },
         },
+        colors: {
+          rmit: {
+            red: "#da291c",
+            black: "#000000",
+            grey: "#666666",
+            lightGrey: "#f2f2f2",
+            blue: "#003865",
+          },
+        }        
       },
       fontSize: {
         "heading-1": ["60px", "72px"],
